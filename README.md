@@ -1,14 +1,18 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Hii%2C+i'm+Aishani)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Hi%2C+i'm+Aishani)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## `> About Me`
-CSE Undergrad @ Manipal Institute of Technology Bengaluru
+
+CSE Undergrad @ Manipal Institute of Technology Bengaluru.
+
 I specialize in Data Science and spend most of my time building things across mobile, AI/ML, and backend systems.
+
+Currently exploring the AI/ML space — RAG, LLMs, and everything in between.
 
 ---
 
@@ -65,10 +69,5 @@ I specialize in Data Science and spend most of my time building things across mo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aishani-sharma&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4444&icon_color=FF4444)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aishani-sharma&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4444)
 
 </div>
