@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- typing SVG header — replace YOUR_USERNAME with your GitHub username -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=hey%2C+i'm+aishani)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Hii%2C+i'm+Aishani)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,8 +9,6 @@
 ## `> About Me`
 CSE Undergrad @ Manipal Institute of Technology Bengaluru
 I specialize in Data Science and spend most of my time building things across mobile, AI/ML, and backend systems.
-
-Currently deep in side projects I probably shouldn't have started this close to deadlines.
 
 ---
 
@@ -26,7 +23,7 @@ Currently deep in side projects I probably shouldn't have started this close to 
 
 ---
 
-## `> ls tech-stack/`
+## `> ls tech-stack`
 
 **Languages**
 
@@ -71,8 +68,7 @@ Currently deep in side projects I probably shouldn't have started this close to 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishani-sharma&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4444&icon_color=FF4444)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishani-sharma&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4444)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aishani-sharma&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4444&icon_color=FF4444)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aishani-sharma&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4444)
 
 </div>
