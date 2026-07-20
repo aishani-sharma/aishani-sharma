@@ -11,7 +11,7 @@ CSE Undergrad @ Manipal Institute of Technology Bengaluru.
 
 I specialize in Data Science and spend most of my time building things across mobile, AI/ML, and backend systems.
 
-Currently exploring the AI/ML space — RAG, LLMs, and everything in between.
+Currently exploring the AI space from RAG, LLMs, to Machine Learning, NLP and everything in between.
 
 ---
 
